@@ -1,1 +1,1 @@
-# docker-kafka
+# kafka producer application
